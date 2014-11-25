@@ -1,9 +1,5 @@
 {
-  "version": "1.1.2",
-  "updated_files": {
-    "board_list-protected.txt": "http://raincole.github.io/ptt-api-build/board_list-protected.txt",
-    "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js",
-    "inverted-index-protected.plist": "http://raincole.github.io/ptt-api-build/inverted-index-protected.plist"
-  },
-  "changelog": "v1.1.2\n============================\n"
+  "version": "1.2.0",
+  "updated_files": null,
+  "changelog": "v1.2.0\n============================\n"
 }
