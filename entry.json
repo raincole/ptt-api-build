@@ -1,7 +1,7 @@
 {
-  "version": "1.4.0",
+  "version": "1.5.0",
   "updated_files": {
-    "inverted-index-protected.txt": "http://raincole.github.io/ptt-api-build/inverted-index-protected.txt"
+    "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js"
   },
-  "changelog": "v1.4.0\n============================\n"
+  "changelog": "v1.5.0\n============================\n"
 }
