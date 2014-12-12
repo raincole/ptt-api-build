@@ -1,7 +1,7 @@
 {
-  "version": "1.5.2",
+  "version": "1.5.3",
   "updated_files": {
     "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js"
   },
-  "changelog": "v1.5.2\n============================\n"
+  "changelog": "v1.5.3\n============================\n"
 }
