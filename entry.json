@@ -1,7 +1,7 @@
 {
-  "version": "1.5.5",
+  "version": "1.5.6",
   "updated_files": {
     "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js"
   },
-  "changelog": "v1.5.5\n============================\n* 修正搜尋文章只能顯示一頁的問題\n\n"
+  "changelog": "v1.5.6\n============================\n* 修正搜尋文章沒有結果會顯示逾時的問題\n\n"
 }
