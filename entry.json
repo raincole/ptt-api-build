@@ -1,7 +1,9 @@
 {
-  "version": "1.5.7",
+  "version": "1.5.8",
   "updated_files": {
-    "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js"
+    "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js",
+    "term-protected.js": "http://raincole.github.io/ptt-api-build/term-protected.js",
+    "web-core-protected.js": "http://raincole.github.io/ptt-api-build/web-core-protected.js"
   },
-  "changelog": "v1.5.7\n============================\n* 修正登入時閃退\n\n"
+  "changelog": "v1.5.8\n============================\n"
 }
