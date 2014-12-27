@@ -1,7 +1,7 @@
 {
-  "version": "1.5.4",
+  "version": "1.5.5",
   "updated_files": {
     "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js"
   },
-  "changelog": "v1.5.4\n============================\n* 修正有時會無法登入的問題\n* 修正在權限不足的看板推文時會顯示逾時的問題\n\n"
+  "changelog": "v1.5.5\n============================\n* 修正搜尋文章只能顯示一頁的問題\n\n"
 }
