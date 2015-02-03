@@ -1,7 +1,7 @@
 {
-  "version": "1.6.1",
+  "version": "1.7.0",
   "updated_files": {
     "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js"
   },
-  "changelog": "v1.6.1\n============================\n* 修正因PTT使用者條款變更而無法登入的問題。"
+  "changelog": "v1.7.0\n============================\n* 修正因PTT使用者條款變更而無法登入的問題。"
 }
