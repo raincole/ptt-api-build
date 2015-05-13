@@ -1,11 +1,10 @@
 {
-  "version": "1.8.0",
+  "version": "1.8.1",
   "updated_files": {
   },
   "updated_files_v2": {
-    "uao-protected.js": "http://raincole.github.io/ptt-api-build/uao-protected.js",
     "main-protected.js": "http://raincole.github.io/ptt-api-build/main-protected.js",
     "web-core-protected.js": "http://raincole.github.io/ptt-api-build/web-core-protected.js"
   },
-  "changelog": "v1.8.0\n============================\n"
+  "changelog": "v1.8.1\n============================\n*修正某些文章無法閱讀的問題\n\n"
 }
