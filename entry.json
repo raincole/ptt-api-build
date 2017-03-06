@@ -1,9 +1,9 @@
 {
-  "version": "1.8.2",
+  "version": "1.8.3",
   "updated_files": {
   },
   "updated_files_v2": {
     "web-core-protected.js": "http://raincole.github.io/ptt-api-build/web-core-protected.js"
   },
-  "changelog": "v1.8.2\n============================\n* 修正置頂文章顯示為一般文章的問題\n* 修正看板名稱出現在文章內的問題\n\n"
+  "changelog": "v1.8.3\n============================\n"
 }
